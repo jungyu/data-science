@@ -8,19 +8,19 @@
         "isLogIn": "N",
         "level_1": "on",
         "orgName": "",
-        "orgId": "3.10.3",
+        "orgId": "4",
         "tenderName": "",
         "tenderId": "",
         "tenderType": "TENDER_DECLARATION",
         "tenderWay": "TENDER_WAY_ALL_DECLARATION",
         "dateType": "isDate",
         "tenderStartDate": "2025/01/01",
-        "tenderEndDate": "2025/03/30",
+        "tenderEndDate": "2025/03/18",
         "radProctrgCate": "",
         "policyAdvocacy": ""
     },
     "data_folder": "procurement_data",
     "history_file": "procurement_history.json",
-    "target_orgs": ["3.10.3"],
+    "target_orgs": ["4"],
     "notify_new_cases": true
 }

@@ -47,7 +47,8 @@ apt-get install -y --upgrade chromium-chromedriver
 
 1. 安裝所需套件
 2. 確認 ChromeDriver 版本與 Chrome 瀏覽器版本相符
-3. 執行程式：
+3. 修改 _config.json 改檔案名稱為 config.json，並設定相關參數
+4. 執行程式：
 ```bash
 python main.py
 ```
